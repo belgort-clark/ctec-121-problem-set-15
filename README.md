@@ -16,8 +16,8 @@ Problem 1 is worth 50 points.
 
 Problem 2 is worth 50 points.
 
-- [Problem 1](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-01) (worth 50 points)
-- [Problem 2](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-02) (worth 50 points)
+- [Problem 1](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-1) (worth 50 points)
+- [Problem 2](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-2) (worth 50 points)
 
 
 ## Instructions

@@ -4,6 +4,9 @@ This problem is worth 50 Points
 
 ## Room Assignments
 
+- Fill in your name at the top of the program.
+- You MUST comment your code.
+
 Write a program that creates a dictionary containing course numbers and the room numbers of the rooms where the courses meet. The dictionary should have the following keyword-value pairs:
 
 | Course Number (key) | Room Number (value) |

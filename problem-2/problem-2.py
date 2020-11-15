@@ -2,8 +2,8 @@
 # Problem 2
 # YOUR NAME
 
-def playGame():
+def roomAssignments():
     pass
 
 
-playGame()
+roomAssignments()

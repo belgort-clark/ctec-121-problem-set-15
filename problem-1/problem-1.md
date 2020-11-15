@@ -4,6 +4,9 @@ This problem is worth 50 Points
 
 ## Let's Play a Game of Name the Captial
 
+- Fill in your name at the top of the program.
+- You MUST comment your code.
+
 Write a program that creates a dictionary containing the U.S. states as keys and their capitals as values.
 
 The program should then randomly quiz a user by displaying the name of a state and asking the user to enter the state's capital.

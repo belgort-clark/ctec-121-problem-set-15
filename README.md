@@ -16,9 +16,8 @@ Problem 1 is worth 50 points.
 
 Problem 2 is worth 50 points.
 
-- [Problem 1](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-1) (worth 50 points)
-- [Problem 2](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-2) (worth 50 points)
-
+- [Problem 1 - Game of States](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-1) (worth 50 points)
+- [Problem 2 - Room Assignments](https://github.com/belgort-clark/ctec-121-problem-set-15/tree/master/problem-2) (worth 50 points)
 
 ## Instructions
 
@@ -28,5 +27,12 @@ Problem 2 is worth 50 points.
 - Once you have completed each program, be sure to **test** it by running it.
 - Make sure that you are getting the **expected results**.
 - **Stage**, **commit** and **push** your work back to **GitHub**.
-- If you have any questions, please ask them in the **#questions** channel on **Slack**. 
+- If you have any questions, please ask them in the **#questions** channel on **Slack**.
 - I'm happy to assist 🙂
+
+## Grading Rubric
+
+| Problem   | Full Marks | Partial Marks | No Marks |
+| :-------- | :--------- | :------------ | :------- |
+| Problem 1 | 50         | 25            | 0        |
+| Problem 2 | 50         | 25            | 0        |

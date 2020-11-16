@@ -13,6 +13,8 @@ The program should then randomly quiz a user by displaying the name of a state a
 
 The program should keep a count of the number of correct and incorrect responses.
 
+End the game when the user gets 5 answers correct. I would suggest using a while loop for this problem.
+
 Use this code for the dictionary:
 
 ```python
